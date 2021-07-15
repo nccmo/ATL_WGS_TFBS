@@ -5,6 +5,7 @@
 - DHS data in BED
 - TFBS data in BED
 - Mutation data in BED
+- Callable region data in BED
 
 ## Tools required
 
