@@ -1,0 +1,9 @@
+data/*
+result*
+result*/*
+.Rproj*/*
+*DS_Store
+.Rproj.user
+.vscode
+.Rhistory
+log/*
