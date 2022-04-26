@@ -15,4 +15,4 @@
 ## Run
 
 1. Check paths and directories in x*.sh
-2. `bash runall.sh`
+2. `bash runall_tfbs.sh`
